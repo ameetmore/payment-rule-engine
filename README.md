@@ -11,6 +11,8 @@ A Spring Boot based rule engine that converts natural language into structured p
 
 ## 🧠 Example Input
 Block transactions above 5000 after 10 PM
+Allow transactions between 1000 and 5000 before 6 AM
+Flag transactions less than 2000
 
 ## 📊 Output
 {
